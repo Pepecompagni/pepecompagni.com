@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <title>Mi Blog Personal</title>
+    <style>
+      body { font-family: Arial, background: #f9f9f9; margin: 0; padding: 2em; }
+      h1 { color: #333366; }
+      article { background: #fff; padding: 1em; margin-bottom: 1em; border-radius: 8px; }
+    </style>
+  </head>
+  <body>
+    <h1>Bienvenido a mi blog</h1>
+    <article>
+      <h2>Título de la primera entrada</h2>
+      <p>¡Este es el contenido de mi primer post!</p>
+    </article>
+    <article>
+      <h2>Segundo post</h2>
+      <p>Más contenido para mi blog.</p>
+    </article>
+  </body>
+</html>
